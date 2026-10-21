@@ -8,5 +8,5 @@ What I'm into right now
 🤖 ML and automation: machine learning, embeddings, recommender systems, automated reminders and notifications
 
 If you're working on something in data, analytics or automation, feel free to reach out.
-💼 LinkedIn: https://www.linkedin.com/in/felysia-dianni-6b3534351/
-✉️ Email: fdiannz04@gmail.com
+ 💼 LinkedIn: https://www.linkedin.com/in/felysia-dianni-6b3534351/
+ ✉️ Email: fdiannz04@gmail.com
